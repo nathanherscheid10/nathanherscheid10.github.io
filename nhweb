@@ -1,0 +1,34 @@
+<html>
+<head>
+ <title>nhweb</title>
+</head>
+<body>
+ <header>
+   <h1>websites</h1>
+ </header>
+ <section>
+   <h2>Over Mij</h2>
+   <p>Ik ben Nathan ik ben 13 jaar oud.</p>
+ </section>
+ <section>
+   <h2>mijn websites</h2>
+   <ul>
+     <li><a href="nathan.herscheid.nl">mijn eerste website</a> </li>
+     <li></li>
+     <li></li>
+     <li></li>
+   </ul>
+ </section>
+ <section>
+   <h2>mijn ideeën</h2>
+   <ol>
+     <li>deze website</li>
+     <li>game</li>
+     <li>info game</li>
+   </ol>
+ </section>
+ <footer>
+   <p>heeft u een vraag bel mij dan</p>
+ </footer>
+</body>
+</html
