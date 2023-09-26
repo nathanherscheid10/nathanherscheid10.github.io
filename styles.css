@@ -1,6 +1,6 @@
 /* Stijl het navigatiemenu */
 nav {
-    background-color: #333; /* Achtergrondkleur */
+    background-color: #bb491b; /* Achtergrondkleur */
     padding: 10px; /* Ruimte rondom het menu */
    }
    /* Stijl de lijst in het menu */
@@ -16,7 +16,7 @@ nav {
    /* Stijl de koppelingen (hyperlinks) in het menu */
    a {
     text-decoration: none; /* Verwijder de onderstreping van koppelingen */
-    color: #fff; /* Tekstkleur van koppelingen */
+    color: #ffae00; /* Tekstkleur van koppelingen */
    }
    /* Stijl de koppelingen wanneer de muis erover beweegt */
    a:hover {
