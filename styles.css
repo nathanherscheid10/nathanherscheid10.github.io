@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 section {
-    background-color: #f5e7cd;
+    background-color: #cddaf5;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -69,7 +69,7 @@ section {
 }
 
 .interest a:hover {
-    color: #c6750c;
+    color: #0c82c6;
 }
 
 .gallery-image {
