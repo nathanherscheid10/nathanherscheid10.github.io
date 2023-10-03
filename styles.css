@@ -121,3 +121,12 @@ section {
         opacity: 0;
     }
 }
+
+li a:active {
+    color: #37188b(160, 55, 55);
+}
+
+li a:hover {
+    background-color: #367faf; /* Wijzig de achtergrondkleur naar donkergrijs */
+    color: black; /* Wijzig de tekstkleur naar wit */
+}
