@@ -4,7 +4,7 @@
 }
 
 header {    
-    background-color:  #c0c243;
+    background-color:  #6bc243;
     color: rgb(52, 48, 40);
     text-align: left;
     padding: 20px;
@@ -15,24 +15,24 @@ nav {
     flex-wrap: wrap;
     justify-content: left;
     align-items: left;
-    background-color: #439e31;
+    background-color: #c4b84d;
 }
 
 nav a {
     flex: 1;
-    color: rgb(63, 133, 31);
+    color: rgb(61, 128, 30);
     text-align: left;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav a:hover {
-    background-color: #b4d426;
+    background-color: #6bb93e;
     color: black;
 }
 
 section {
-    background-color: #b9ecbc;
+    background-color: #e0ffe2;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
