@@ -130,3 +130,5 @@ li a:hover {
     background-color: #367faf;
     color: black;
 }
+
+#nav li ul {display: none;}
