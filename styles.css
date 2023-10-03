@@ -4,7 +4,7 @@
 }
 
 header {    
-    background-color:  #c28943;
+    background-color:  #437ec2;
     color: rgb(52, 48, 40);
     text-align: left;
     padding: 20px;
@@ -15,19 +15,19 @@ nav {
     flex-wrap: wrap;
     justify-content: left;
     align-items: left;
-    background-color: #651111;
+    background-color: #5c1f8d;
 }
 
 nav a {
     flex: 1;
-    color: rgb(228, 220, 170);
+    color: rgb(170, 210, 228);
     text-align: left;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav a:hover {
-    background-color: #b28b17;
+    background-color: #367faf;
     color: black;
 }
 
@@ -65,7 +65,7 @@ section {
 }
 
 .banaan a:hover {
-    color: #c6750c;
+    color: #2866ad;
 }
 
 .interest a:hover {
