@@ -131,6 +131,10 @@ li a:hover {
     color: black;
 }
 
-#nav li ul {display: none;}
+nav li ul {
+    display: none;
+}
 
-#nav li:hover ul {display: block;}
+nav li:hover ul {
+    display: block;
+}
