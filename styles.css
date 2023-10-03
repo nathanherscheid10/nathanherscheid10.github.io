@@ -127,6 +127,6 @@ li a:active {
 }
 
 li a:hover {
-    background-color: #367faf; /* Wijzig de achtergrondkleur naar donkergrijs */
-    color: black; /* Wijzig de tekstkleur naar wit */
+    background-color: #367faf;
+    color: black;
 }
