@@ -132,3 +132,5 @@ li a:hover {
 }
 
 #nav li ul {display: none;}
+
+#nav li:hover ul {display: block;}
