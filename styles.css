@@ -133,7 +133,8 @@ ul li ul {
     left: 0;
     display: none;
 }
-   .submenu {
+
+.submenu {
     opacity: 0;
     visibility: hidden;
     position: absolute;
@@ -146,13 +147,13 @@ ul li ul {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     min-width: 150px;
     transition: opacity 0.3s, visibility 0.3s;
-  }
+}
   
-  .submenu a {
+.submenu a {
     padding: 0.25rem 0.5rem;
-  }
+}
   
-  .submenu-open {
+.submenu-open {
     opacity: 1;
     visibility: visible;
-  }
+}
